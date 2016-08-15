@@ -1,0 +1,14 @@
+layout_spectrum: 0.2038476204033941
+typography_spectrum: 0.4064649064093828
+color:
+  brandStrength: 0.5952077168039978
+  lightness: 0.5603466785978526
+  saturation: 0.9722805880010128
+  rhythmicContrast: 0.2684396510012448
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: rsaenzs
