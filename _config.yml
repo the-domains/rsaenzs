@@ -1,4 +1,3 @@
-layout_spectrum: 0.2038476204033941
 typography_spectrum: 0.4064649064093828
 color:
   brandStrength: 0.5952077168039978
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.2038476204033941
 name: rsaenzs
+title: Welcome to the new UX experience
